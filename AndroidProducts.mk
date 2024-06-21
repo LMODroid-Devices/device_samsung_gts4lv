@@ -15,8 +15,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_gts4lv.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_gts4lv-user \
-    lmodroid_gts4lv-userdebug \
-    lmodroid_gts4lv-eng
